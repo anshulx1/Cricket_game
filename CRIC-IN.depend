@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1621667059 source:c:\users\education\desktop\c++\cric-in\main.cpp
+	"game.h"
+
+1621748386 c:\users\education\desktop\c++\cric-in\game.h
+	"team.h"
+	<iostream>
+	<unistd.h>
+	<limits>
+	<cstdlib>
+	<ctime>
+
+1621669503 c:\users\education\desktop\c++\cric-in\team.h
+	"player.h"
+	<vector>
+
+1621659500 c:\users\education\desktop\c++\cric-in\player.h
+	<string>
+
+1621659500 source:c:\users\education\desktop\c++\cric-in\player.cpp
+	"player.h"
+
+1621669503 source:c:\users\education\desktop\c++\cric-in\team.cpp
+	"team.h"
+
+1621764026 source:c:\users\education\desktop\c++\cric-in\game.cpp
+	"game.h"
+
